@@ -1,0 +1,9 @@
+[submodule "book-service"]
+	path = book-service
+	url = https://github.com/oshanavishkapiries/book-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/oshanavishkapiries/user-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/oshanavishkapiries/order-service.git
